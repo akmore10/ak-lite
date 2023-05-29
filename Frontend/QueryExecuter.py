@@ -1,4 +1,4 @@
-from ErrorHandling.CommandExceptions import CommandNotFound
+from FrontendErrorHandling.CommandExceptions import CommandNotFound
 from Frontend.QueryBuild import PrepareStatement
 from Frontend.Types.Statement import StatementTypes
 

@@ -1,5 +1,5 @@
 from Frontend.Types.Statement import Statement,StatementTypes
-from ErrorHandling.CommandExceptions import CommandNotFound
+from FrontendErrorHandling.CommandExceptions import CommandNotFound
 
 class PrepareStatement:
     def __init__(self):
